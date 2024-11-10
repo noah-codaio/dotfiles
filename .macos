@@ -61,7 +61,7 @@ defaults write com.apple.dock autohide -bool true
 # Don’t show recent applications in Dock
 defaults write com.apple.dock show-recents -bool false
 
-for app in 
+for app in \
     "Activity Monitor" \
     "Dock" \
     "Finder"; do
