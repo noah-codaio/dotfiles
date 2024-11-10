@@ -23,7 +23,7 @@ After backing up your old Mac you may now follow these install instructions to s
 4. Clone this repo to `~/.dotfiles` with:
 
     ```zsh
-    git clone --recursive git@github.com:driesvints/dotfiles.git ~/.dotfiles
+    git clone git@github.com:noah-codaio/dotfiles.git ~/.dotfiles
     ```
 
 5. Run the installation with:
