@@ -21,6 +21,7 @@ cask 'arc'
 cask 'google-chrome'
 cask 'slack'
 cask 'zoom'
+cask 'opal-composer'
 
 # Quicklook
 cask 'qlmarkdown'
