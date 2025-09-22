@@ -22,6 +22,7 @@ cask 'google-chrome'
 cask 'slack'
 cask 'zoom'
 cask 'opal-composer'
+cask 'karabiner-elements'
 
 # Quicklook
 cask 'qlmarkdown'

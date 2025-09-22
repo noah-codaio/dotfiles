@@ -29,6 +29,9 @@ brew bundle --file ./Brewfile
 # Create a projects directories
 mkdir $HOME/Code
 
+# Symlinks the config for karabiner
+ln -s $HOME/.dotfiles/config/karabiner ~/.config
+
 # Symlink the Mackup config file to the home directory
 ln -s ./.mackup.cfg $HOME/.mackup.cfg
 
